@@ -3,7 +3,7 @@ var Counter = require('./Counter.js');
 
 var Counter = new Counter();
 Counter.print();
-Counter.count = 100;
+Counter.count = 150;
 Counter.print();
 
 Referee.print();
